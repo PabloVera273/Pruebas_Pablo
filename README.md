@@ -4,4 +4,5 @@ echo "# Pruebas_Pablo" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add Origin https://github.com/
+git remote add Origin https://github.com/PabloVera273/Pruebas_Pablo.git
+git push -u origin master
