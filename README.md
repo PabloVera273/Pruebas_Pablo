@@ -1,8 +1,5 @@
-...........Or create a new repository on the command line
+#Documentacion
+> Pablo Vera Garcia
+> 23 de abril
 
-echo "# Pruebas_Pablo" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add Origin https://github.com/PabloVera273/Pruebas_Pablo.git
-git push -u origin master
+IES PORTADA ALTA
